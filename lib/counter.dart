@@ -6,4 +6,6 @@ class Counter {
 
   void decrement() => value--;
 
+  void reset() => 0;
+
 }
